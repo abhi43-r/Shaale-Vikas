@@ -2,6 +2,16 @@
 
 Shaale-Vikas is a Kotlin + Jetpack Compose Android app that helps rural schools publish infrastructure needs and enables alumni to pledge support with live progress tracking.
 
+## Screenshots
+
+| Need Details | Pledge Simulation |
+|---|---|
+| ![Need Details](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg) | ![Pledge Simulation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.21%20PM.jpeg) |
+
+| Home Dashboard | Profile Creation |
+|---|---|
+| ![Home Dashboard](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg) | ![Profile Creation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-05%20at%204.52.31%20PM.jpeg) |
+
 ## Stack
 
 - Kotlin
@@ -36,15 +46,6 @@ Shaale-Vikas is a Kotlin + Jetpack Compose Android app that helps rural schools 
 - Dark mode-ready Material 3 theme
 - Basic offline caching through Firestore persistence
 
-## Screenshots
-
-| Need Details | Pledge Simulation |
-|---|---|
-| ![Need Details](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg) | ![Pledge Simulation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.21%20PM.jpeg) |
-
-| Home Dashboard | Profile Creation |
-|---|---|
-| ![Home Dashboard](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg) | ![Profile Creation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-05%20at%204.52.31%20PM.jpeg) |
 
 ## Android Studio Setup
 
