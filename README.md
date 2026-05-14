@@ -40,11 +40,11 @@ Shaale-Vikas is a Kotlin + Jetpack Compose Android app that helps rural schools 
 
 | Need Details | Pledge Simulation |
 |---|---|
-| ![Need Details](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_1.jpg) | ![Pledge Simulation](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_2.jpg) |
+| ![Need Details]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg)) | ![Pledge Simulation]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.21%20PM.jpeg)) |
 
 | Home Dashboard | Profile Creation |
 |---|---|
-| ![Home Dashboard](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_3.jpg) | ![Profile Creation](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_4.jpg) |
+| ![Home Dashboard]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg)) | ![Profile Creation]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-05%20at%204.52.31%20PM.jpeg)) |
 
 ## Android Studio Setup
 
