@@ -36,6 +36,16 @@ Shaale-Vikas is a Kotlin + Jetpack Compose Android app that helps rural schools 
 - Dark mode-ready Material 3 theme
 - Basic offline caching through Firestore persistence
 
+## Screenshots
+
+| Need Details | Pledge Simulation |
+|---|---|
+| ![Need Details](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_1.jpg) | ![Pledge Simulation](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_2.jpg) |
+
+| Home Dashboard | Profile Creation |
+|---|---|
+| ![Home Dashboard](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_3.jpg) | ![Profile Creation](https://github.com/abhi43-r/Shaale-Vikas/raw/main/assets/screenshot_4.jpg) |
+
 ## Android Studio Setup
 
 1. Open Android Studio Hedgehog or newer.
