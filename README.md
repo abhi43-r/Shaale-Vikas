@@ -40,21 +40,24 @@ Shaale-Vikas is a Kotlin + Jetpack Compose Android app that helps rural schools 
 
 | Need Details | Pledge Simulation |
 |---|---|
-| ![Need Details]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg)) | ![Pledge Simulation]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.21%20PM.jpeg)) |
+| ![Need Details](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg) | ![Pledge Simulation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.21%20PM.jpeg) |
 
 | Home Dashboard | Profile Creation |
 |---|---|
-| ![Home Dashboard]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg)) | ![Profile Creation]((https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-05%20at%204.52.31%20PM.jpeg)) |
+| ![Home Dashboard](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg) | ![Profile Creation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-05%20at%204.52.31%20PM.jpeg) |
 
 ## Android Studio Setup
 
 1. Open Android Studio Hedgehog or newer.
-2. Choose `Open` and select:
-   `C:\Users\harsh\Documents\Codex\2026-05-05-files-mentioned-by-the-user-whatsapp`
-3. Let Android Studio install the Android SDK for API 35 if prompted.
-4. Use JDK 17 in Android Studio:
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/abhi43-r/Shaale-Vikas.git
+   ```
+3. Open the project in Android Studio.
+4. Let Android Studio install the Android SDK for API 35 if prompted.
+5. Use JDK 17 in Android Studio:
    `File > Settings > Build, Execution, Deployment > Build Tools > Gradle`
-5. If Android Studio asks for a Gradle wrapper, allow it to generate or sync one automatically.
+6. If Android Studio asks for a Gradle wrapper, allow it to generate or sync one automatically.
 
 ## Firebase Setup
 
@@ -62,17 +65,16 @@ Shaale-Vikas is a Kotlin + Jetpack Compose Android app that helps rural schools 
 2. Add an Android app with package name:
    `com.shaalevikas`
 3. Download `google-services.json`.
-4. Place it here:
-   [google-services.json](C:/Users/harsh/Documents/Codex/2026-05-05-files-mentioned-by-the-user-whatsapp/app/google-services.json)
+4. Place it in the `app/` directory of your project.
 5. In Firebase Console, enable:
    - Authentication > Email/Password
    - Firestore Database
    - Storage
 6. Apply the included rules:
-   - [firestore.rules](/C:/Users/harsh/Documents/Codex/2026-05-05-files-mentioned-by-the-user-whatsapp/firestore.rules)
-   - [storage.rules](/C:/Users/harsh/Documents/Codex/2026-05-05-files-mentioned-by-the-user-whatsapp/storage.rules)
+   - `firestore.rules`
+   - `storage.rules`
 7. Add the included Firestore composite index:
-   - [firestore.indexes.json](/C:/Users/harsh/Documents/Codex/2026-05-05-files-mentioned-by-the-user-whatsapp/firestore.indexes.json)
+   - `firestore.indexes.json`
 
 ## Firestore Data Model
 
@@ -134,4 +136,3 @@ Shaale-Vikas is a Kotlin + Jetpack Compose Android app that helps rural schools 
 
 - The pledge flow is intentionally simulated and does not process real payments.
 - Firestore offline persistence is enabled in `AppModule.kt`.
-- The local terminal environment used to generate this project did not include Java or Gradle, so build verification must be completed in Android Studio after Firebase setup.
