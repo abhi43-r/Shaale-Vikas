@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149655002878",
+    "project_id": "shaale-vikas-adbf4",
+    "storage_bucket": "shaale-vikas-adbf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149655002878:android:83ff9da7e21b6369bc4faf",
+        "android_client_info": {
+          "package_name": "com.shaalevikas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyL3v2mszv1cSsM1_QcGbtbD4Wb3cZA3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
