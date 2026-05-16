@@ -15,11 +15,11 @@ Rural schools often struggle to communicate infrastructure needs (repairs, facil
 
 | Need Details | Pledge Simulation |
 |---|---|
-| ![Need Details](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg) | ![Pledge Simulation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.21%20PM.jpeg) |
+| <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg" width="250"> | <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.04%20PM.jpeg" width="250"> |
 
 | Home Dashboard | Profile Creation |
 |---|---|
-| ![Home Dashboard](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg) | ![Profile Creation](https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-05%20at%204.52.31%20PM.jpeg) |
+| <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg" width="250"> | <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.09%20PM.jpeg" width="250"> |
 
 ## 🚀 Key Features
 
@@ -238,12 +238,12 @@ Shaale-Vikas/
 - Log in with admin account
 - Tap "Add New Need"
 - Fill in:
-  - Title: "Library Books Collection"
-  - Description: "We need to build a modern library with updated books and digital resources"
-  - Location: "Rural School, [City]"
-  - Category: "Education"
-  - Priority: "High"
-  - Estimated Cost: ₹50,000
+   - Title: "Library Books Collection"
+   - Description: "We need to build a modern library with updated books and digital resources"
+   - Location: "Rural School, [City]"
+   - Category: "Education"
+   - Priority: "High"
+   - Estimated Cost: ₹50,000
 - Upload images (optional - app works without)
 - Tap "Publish"
 - Repeat 2-3 times with different needs
