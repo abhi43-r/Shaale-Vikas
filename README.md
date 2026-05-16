@@ -15,11 +15,11 @@ Rural schools often struggle to communicate infrastructure needs (repairs, facil
 
 | Need Details | Pledge Simulation |
 |---|---|
-| <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg" width="250"> | <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.04%20PM.jpeg" width="250"> |
+| <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.54.32%20PM.jpeg" width="250"> | <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.21%20PM.jpeg" width="250"> |
 
 | Home Dashboard | Profile Creation |
 |---|---|
-| <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg" width="250"> | <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.09%20PM.jpeg" width="250"> |
+| <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-13%20at%2012.48.20%20PM.jpeg" width="250"> | <img src="https://github.com/abhi43-r/Shaale-Vikas/blob/main/WhatsApp%20Image%202026-05-05%20at%204.52.31%20PM.jpeg" width="250"> |
 
 ## 🚀 Key Features
 
